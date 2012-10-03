@@ -33,10 +33,13 @@ namespace GalconGame
         /// </summary>
         protected override void Initialize()
         {
-            // TODO: Add your initialization logic here
+            // TODO: Add your initialization logic here\
+            
 
             base.Initialize();
         }
+
+       
 
         /// <summary>
         /// LoadContent will be called once per game and is the place to load
