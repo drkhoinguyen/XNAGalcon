@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GalconGame", "GalconGame\GalconGame\GalconGame.csproj", "{B34F7F46-1961-47D3-A1BE-FF43AEAE68BA}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GalconGameContent", "GalconGame\GalconGameContent\GalconGameContent.contentproj", "{C1EEFD1C-F406-43ED-A196-EA5A49205F10}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B34F7F46-1961-47D3-A1BE-FF43AEAE68BA}.Debug|x86.ActiveCfg = Debug|x86
+		{B34F7F46-1961-47D3-A1BE-FF43AEAE68BA}.Debug|x86.Build.0 = Debug|x86
+		{B34F7F46-1961-47D3-A1BE-FF43AEAE68BA}.Release|x86.ActiveCfg = Release|x86
+		{B34F7F46-1961-47D3-A1BE-FF43AEAE68BA}.Release|x86.Build.0 = Release|x86
+		{C1EEFD1C-F406-43ED-A196-EA5A49205F10}.Debug|x86.ActiveCfg = Debug|x86
+		{C1EEFD1C-F406-43ED-A196-EA5A49205F10}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
